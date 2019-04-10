@@ -10,6 +10,7 @@ namespace W3_Radix_sell
     {
         static void Main(string[] args)
         {
+            int a;
         }
     }
 }
