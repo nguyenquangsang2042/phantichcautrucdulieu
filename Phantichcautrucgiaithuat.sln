@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4_Radix_sell", "W3_Radix_sell\W4_Radix_sell.csproj", "{D1C446A0-F9CE-479C-B6E1-1EA8BC16D958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C446A0-F9CE-479C-B6E1-1EA8BC16D958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C446A0-F9CE-479C-B6E1-1EA8BC16D958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C446A0-F9CE-479C-B6E1-1EA8BC16D958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C446A0-F9CE-479C-B6E1-1EA8BC16D958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF27DAA-C8A2-4116-AC93-93D76F7B84F6}
+	EndGlobalSection
+EndGlobal
